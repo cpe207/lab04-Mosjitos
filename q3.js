@@ -18,3 +18,5 @@ console.log(primeNumber(d1));
 console.log(primeNumber(d2));
 console.log(primeNumber(d3));
 module.exports = primeNumber;
+//รหัส นศ.: 660610737
+//ชื่อ-สกุล : กมลรัตน์ แซ่บุญ

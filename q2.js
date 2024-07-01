@@ -17,3 +17,5 @@ console.log(arrayStringify(c1));
 console.log(arrayStringify(c2));
 console.log(arrayStringify(c3));
 module.exports = arrayStringify;
+//รหัส นศ.: 660610737
+//ชื่อ-สกุล : กมลรัตน์ แซ่บุญ
