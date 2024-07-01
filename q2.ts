@@ -1,5 +1,14 @@
-function arrayStringify(a) {
-  /* Your code here */
+function arrayStringify(a:any):string | null {
+  if(a === null){
+    return null;
+  }else{
+    let result:string = "";
+  for(let i = 0; i < a.length; i++){
+    result += a[i].toString();
+  }
+    return result; 
+  }
+   
 }
 
 const c1 = [1, 2, 3];
